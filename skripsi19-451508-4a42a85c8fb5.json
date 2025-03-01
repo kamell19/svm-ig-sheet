@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skripsi19-451508",
+  "private_key_id": "4a42a85c8fb5bbdce03faf97b44ddc6aa3365015",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkWTntwEDWNbNV\nKe1Gpza9AeGZdRsBRGjFcVPHM4GOn4hzbUjTo7S6NuzCsd1RqJc1RV5ceyCzkVn5\nlF/wbI5ubwypQnOunaWhCniXiF+SJJK0ugnx65nv2dzOrdvfb6XWId7ZwNETh+eC\n9tEo7p3fDlmGN6mQ80QBePFekZ+bau68liqXoXuQEsHsLIYtGqDjkdbDn+l43pS5\n4EL+syII0CzOPnUPAz2YybTv7dFSbwTNBsCy4gVzZY7DjgiTNx6ipjbv1enZdELh\nw+QslQYTR9EwJgUiPFA9n8MgPy9Lmsox9O31dknaPsdFDR2gAKFaARacXO7wp48g\n0+3p7meXAgMBAAECggEAQYjG3bQ85m4RbZNDZ1oELMgUQpH8y7uQn7K5+oPiVJHu\n4kAguyvbRCnkrRopq4czjG113CDJAHGkVC5DN2bCQO0NOm0iHe4E/rtjLOGXYnos\n+d35WztcbdUNBGk1dNpbYZCuAVyuwj/+JC3xZ4YG88wQDMIjXoZyhrfIX7Jn15ve\nmFL1dXiTsdY1Dk4lty0c4htRwLxZKw6qWzgz+XTG/ntzi+M+d1qxCpuYHq7LsCac\nI4c2rFcBKbcQTWzIg8tnmBFM3HOwod1XGAgVKKsBQ233pGdSLfNtG3GjU0XykS7y\nvINmjvaS97ua2jDyQipqXqP3E0Twm+54dub+jgx7eQKBgQDmYpASnH0GfWcuJBHD\nLkXzeIULagm9j8X6igf2lkt1gqcvz4vu6+YsGKxtb7Rcd4w0DLtDSLAL4SygWM6m\n7QBkdO/UOC/au1++eUJpj4CrC5xzZEZZPGPAWj2yPs4YIA81nqBaBc0fZlUL+MfL\n8sC+epcBrADxqV2689my/Xk4kwKBgQC2nxIYkIge4h86/Dyx6vJM0TX/dF41KfAP\n7TnxiwbQ524ycFVhNcN/z43WqFSMdsl/5y6FYiVhzce1Xq2SpLc83OpsQtrW3PnV\nTOEToVbVC5NlD7iydWGltw735s6sdeRkX9xSKXdI+WhrCnuGpJLN8qQHNlyZEPLv\nHHTzVXELbQKBgHyKo5+sANpVSEXlMcT1atMnP6Tf+cwDwN6jZ5KhxMENlBuAcwEB\nfTgxTmUKkdG6vowUpdbFoIWLgHheCbirPh8QJ+XtSdFQoX1yR7iQ3tmYOUcX2f+7\naaE+J0QIN5lLG229BqojoLNsumTyY++YlyFhW+iHdyssh4Lc976Oz80JAoGBAKut\nBEz1ahFmTyebQc+b56YRMqrwETP3NcczIrqQEJtIRM7DzW+yJBO94T//RGQ7sxc7\nE/+uEShNU8WLuK5XjC56GyIlAybj2zUKrbhPfpqO5EQoMGALev1XBopDftyfg1Jc\nz3ippIqEdAXUd+VORve2dz6Uex4l0cq4vLSYCMpNAoGABNoGLeNylfijDqUsYmU4\nl7YM3Etlz/uvIPquH6KlTVzC/aREI/mzh5R7IDQOX3JBb/EBwpgr1e9902N59Pvn\nrxFveOS21FPNOBa3aED9JHas7UMu8az9VtDikIhbVWsG0Rr8Mb2QGYhtVgBI7icx\nN90bkSp1r88oiavBhY+SCr0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-access@skripsi19-451508.iam.gserviceaccount.com",
+  "client_id": "116978561820511092274",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-access%40skripsi19-451508.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
